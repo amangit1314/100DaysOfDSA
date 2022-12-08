@@ -7,6 +7,7 @@
 - Encourage and Support people online by means of social media.
 
 ## Topics - 
+- [x] Arrays
 
 ## Contents🥣 -
 - 100daysofcode challange 💪 repository where i will do 100daysofcode challange for DSA.
@@ -14,4 +15,4 @@
 - All the related files and links of the problems which i will solve every day will be provided here daywise.
 
 ## Days Completed -
-[x] Day 1
+- [x] Day 1
