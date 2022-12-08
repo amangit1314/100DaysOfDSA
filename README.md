@@ -1,5 +1,11 @@
 # 😁 100DaysOfDSA Challange 💪
 
+## Social Links
+<p align="left"> 
+  <a href="[https://www.linkedin.com/in/aman-soni1](https://elemental-koi-674.notion.site/c60c2de4a05041709cbefd249ea11d23?v=bd85f7d059cb48319df6cfcb74495bf5)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> 
+
+</p>
+
 ## Rules 📏 of the Challange -
 - Code 1 hour everyday.
 - Upload code on GitHub.
