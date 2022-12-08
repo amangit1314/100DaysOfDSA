@@ -3,7 +3,7 @@
 ## Social Links
 <p align="left"> 
   <a href="[https://www.linkedin.com/in/aman-soni1](https://elemental-koi-674.notion.site/c60c2de4a05041709cbefd249ea11d23?v=bd85f7d059cb48319df6cfcb74495bf5)"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/aman-soni1"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=notion&logoColor=blue" /></a> 
+  <a href="https://www.linkedin.com/in/aman-soni1"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=blue" /></a> 
 
 </p>
 
