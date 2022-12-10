@@ -1,4 +1,4 @@
-# 😁 100DaysOfDSA Challange 💪
+# 100DaysOfDSA Challange 💪
 
 ## Social Links
 <p align="left"> 
@@ -15,6 +15,8 @@
 
 ## Topics - 
 - [x] Arrays
+- [x] Binary Search
+- [x] Searching and Sorting
 
 ## Contents🥣 -
 - 100daysofcode challange 💪 repository where i will do 100daysofcode challange for DSA.
@@ -23,3 +25,4 @@
 
 ## Days Completed -
 - [x] Day 1
+- [x] Day 2
