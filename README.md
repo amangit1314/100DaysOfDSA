@@ -33,4 +33,7 @@
 - [x] Day 2
 - [x] Day 3
 - [x] Day 4
+<<<<<<< HEAD
 - [x] Day 5
+=======
+>>>>>>> 1274dd1983119fae499ba5e5acd0702a6042cadc
