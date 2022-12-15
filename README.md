@@ -22,6 +22,7 @@
 - [x] Searching and Sorting
 - [x] Matrix
 - [x] Dynamic Programming  
+- [x] Binary Tree  
 
 ## Contents🥣 -
 
@@ -38,3 +39,4 @@
 - [x] Day 5
 - [x] Day 6
 - [x] Day 7
+- [x] Day 8
