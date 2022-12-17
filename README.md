@@ -22,7 +22,9 @@
 - [x] Searching and Sorting
 - [x] Matrix
 - [x] Dynamic Programming  
-- [x] Binary Tree  
+- [x] Binary Tree
+- [x] Greedy
+- [x] Graph
 
 ## Contents🥣 -
 
@@ -40,3 +42,5 @@
 - [x] Day 6
 - [x] Day 7
 - [x] Day 8
+- [x] Day 9
+- [x] Day 10
