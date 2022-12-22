@@ -25,6 +25,7 @@
 - [x] Binary Tree
 - [x] Greedy
 - [x] Graph
+- [x] Binary Search Tree
 
 ## Contents🥣 -
 
@@ -44,3 +45,5 @@
 - [x] Day 8
 - [x] Day 9
 - [x] Day 10
+- [x] Day 11
+- [ ]
