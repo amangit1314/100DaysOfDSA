@@ -52,7 +52,8 @@
 - [x] Day 14
 - [x] Day 15
 - [x] Day 16
-- [ ] Day 17
-- [ ] Day 18
+- [x] Day 17
+- [x] Day 18
 - [ ] Day 19
 - [ ] Day 20
+- [ ] Day 21
