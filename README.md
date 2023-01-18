@@ -60,4 +60,5 @@
 - [x] Day 22
 - [x] Day 23
 - [x] Day 24
-- [ ]
+- [x] Day 25
+- [x] Day 26
