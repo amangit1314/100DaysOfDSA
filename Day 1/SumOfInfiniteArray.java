@@ -1,13 +1,14 @@
-package arrays.interviewProblems;
+package Day1;
+
 import java.util.*;
 
 public class SumOfInfiniteArray {
-    static int mod = (int) 1e9+7;
+    static int mod = (int) 1e9 + 7;
 
-    public static long sumOfArray(int[] sumArray, long x, int n){
+    public static long sumOfArray(int[] sumArray, long x, int n) {
         long factor = (x / n) % mod;
-        long sum =  (factor * sumArray[n]) % mod;
-        sum = (sum + sumArray[(int)(x % n)]) % mod;
+        long sum = (factor * sumArray[n]) % mod;
+        sum = (sum + sumArray[(int) (x % n)]) % mod;
         return sum;
     }
 
@@ -17,17 +18,17 @@ public class SumOfInfiniteArray {
         List<Integer> list_of_sum = new LinkedList<>();
         int x = 0, sum;
         long l, r, lsum, rsum;
-        int[] sumArr = new int[n+1];
-        for(int i = 1; i <= n; i++){
+        int[] sumArr = new int[n + 1];
+        for (int i = 1; i <= n; i++) {
             sumArr[i] = (sumArr[i - 1] + arr[i - 1]) % mod;
         }
 
-        while(q-- > 0){
+        while (q-- > 0) {
             l = queries.get(x).get(0);
             r = queries.get(x).get(1);
-            lsum = sumOfArray(sumArr, l-1, n);
+            lsum = sumOfArray(sumArr, l - 1, n);
             rsum = sumOfArray(sumArr, r, n);
-            sum = (int)(rsum - lsum + mod)%mod;
+            sum = (int) (rsum - lsum + mod) % mod;
             list_of_sum.add(sum);
             x++;
         }
